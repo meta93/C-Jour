@@ -1,2 +1,2 @@
 # C-Jour
-My C Journey
+Documenting My C Journey
